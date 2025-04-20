@@ -1,15 +1,4 @@
-header {
-  background-color: green;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
 
-.logo {
-  height: 60px;
-  display: block;
-  margin: 0 auto 10px auto;
-}
 
 h1 {
   font-size: 40px;
@@ -28,4 +17,9 @@ h3 {
 p {
   font-size: 14px;
   font-family: Arial;
+}
+
+div {
+background-color: darkcyan;
+text-align: right;
 }
